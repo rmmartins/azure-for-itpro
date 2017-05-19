@@ -1,7 +1,5 @@
-# Azure oara IT Pro
-Código fonte do livro Azure para IT Pro
-
-Esse livro apresenta o Azure para IT Pros em uma utilização do Docker focando nas melhores práticas de uso.
+# Azure para IT Pro
+Esse livro apresenta o Azure para IT Pros em uma linguagem clara e prática. 
 
 > Autor: **[Ricardo Martins](https://www.ricardomartins.com.br)**
 
