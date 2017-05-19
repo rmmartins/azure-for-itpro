@@ -5,7 +5,6 @@ Esse livro apresenta o Azure para IT Pros em uma linguagem clara e prática.
 
 ## Sumário
 
-1. [Organização](livro/organizacao.md)
 1. [Propósito desse livro](livro/proposito.md)
 1. [Agradecimentos](livro/agradecimentos.md)
 1. [Introdução](livro/introducao.md)
