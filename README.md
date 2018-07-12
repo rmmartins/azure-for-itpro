@@ -1,12 +1,8 @@
-# Azure para IT Pro
-Esse livro apresenta o Azure para IT Pros em uma linguagem clara e prática. 
+# Azure for IT Pro - The Ops side of DevOps
+Main topics about Azure from a Sysadmin perspective 
 
-> Autor: **[Ricardo Martins](https://www.ricardomartins.com.br)**
+> By: **[Ricardo Martins](https://www.ricardomartins.com.br)**
 
-## Sumário
+## Contents
 
-1. [Propósito desse livro](livro/proposito.md)
-1. [Agradecimentos](livro/agradecimentos.md)
-1. [Introdução](livro/introducao.md)
-1. [Dicas](livro/dicas.md)
-1. [Apêndice](livro/apendice.md)
+1. [Motivation](book/motivation.md)
