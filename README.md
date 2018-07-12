@@ -5,4 +5,4 @@ Main topics about Azure from a Sysadmin perspective
 
 ## Contents
 
-1. [Motivation](book/motivation.md)
+1. [Motivation](guide/motivation.md)
