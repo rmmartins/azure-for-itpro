@@ -36,7 +36,7 @@
 |Introduction to Microsoft Azure accounts, platform, and services for AWS experts - Azure for AWS experts|	https://docs.microsoft.com/en-us/azure/architecture/aws-professional/index|
 |Azure for AWS Professionals - Learning Path| https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/|
 | Microsoft Azure for AWS Experts - EDX Free Training|	https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/|
-|Azure for AWS Professionals	https://docs.microsoft.com/en-us/azure/architecture/aws-professional/ |
+|Azure for AWS Professionals|	https://docs.microsoft.com/en-us/azure/architecture/aws-professional/ |
 |(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals	Getting Started|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667|
 |(Part 2) Microsoft Azure for Amazon AWS Cloud Professionals	Networking|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1668|
 |(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals	Storage|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669|
