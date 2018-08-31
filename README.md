@@ -22,7 +22,7 @@ It aims to be a useful, living reference that consolidates links, tips and best 
 7. [Azure Governance](guide/governance.md)
 8. [Azure Automation](guide/automation.md)
 9. [Azure Security](guide/security.md)
-10. [Azure DevOps](guide/devops.md)
+10. [Azure Misc](guide/misc.md)
 
 
 > [@ricardommartins](http://twitter.com/ricardommartins)
