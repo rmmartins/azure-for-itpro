@@ -7,6 +7,20 @@
 |Azure Portal| https://azure.microsoft.com/en-us/features/azure-portal/|
 |Create and Share Azure dashboads|https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards|
 
+
+## Azure Command-line Interface
+
+|Topic | Reference |
+| --- | --- |
+|Azure CLI | https://docs.microsoft.com/en-us/cli/azure/|
+
+## Azure Mobile App
+
+|Topic | Reference |
+| --- | --- |
+|Azure Mobile App | https://azure.microsoft.com/en-us/features/azure-portal/mobile-app/|
+
+
 ## Azure Resource Manager
 
 | Topic | Reference |
