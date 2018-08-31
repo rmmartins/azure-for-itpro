@@ -1,7 +1,7 @@
 ![Azure Logo](/images/azure-logo.png)
 
 # Azure for IT Pro - The Ops side of DevOps
-Main topics about Azure from a Sysadmin perspective 
+>Main topics about Azure from a Sysadmin perspective 
 
 This guide was created with the purpose to serve as source of objective information for IT Pros and Sysadmins on the main topics about Azure. It is being created in a open source model and under the terms of the GNU General Public License 3.0. Feel free to contribute and collaborate with your pull request.
 
