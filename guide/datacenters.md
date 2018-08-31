@@ -44,6 +44,8 @@
 
 ## Azure SLA
 
+| Topic | Reference |
+| --- | --- |
 |Azure SLA|https://azure.microsoft.com/en-us/support/legal/sla/|
 |Azure Availability Zones|https://docs.microsoft.com/en-us/azure/availability-zones/az-overview|
 |Azure Availability Zones Quick Tour and Guide|https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/|
