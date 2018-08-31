@@ -9,7 +9,7 @@ It will be based on the official Microsoft documentation contained in http://doc
 
 In my daily life with clients, I see many IT Pros with a large knowledge gap in Azure. In many cases, they have partial or incomplete information because they learn Azure on demand, in an unorganized/unstructured way without following a logical path of study and learning.
 
-Because this I've create this guide. It aims to be a useful, living reference that consolidates links, tips and best practices. I'm bringing the main questions from the customers to a simple list of structured topics.
+The purspose of this guide is to be a useful, living reference that consolidates links, tips and best practices. I'm bringing the main questions from the customers to a simple list of structured topics. I hope this guide can be used as a source on key information for the most common questions in Azure IaaS for IT Pros.
 
 ## Contents
 
