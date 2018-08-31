@@ -33,3 +33,10 @@
 | --- | --- |
 |What is Infrastructure as Code?|https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code|
 |DevOps Resource Center|https://docs.microsoft.com/en-us/azure/devops/learn/|
+|DevOps in the Enterprise|https://blogs.technet.microsoft.com/devops/|
+|Our DevOps Journey|http://stories.visualstudio.com/devops/|
+|Devops & Microsoft|https://www.visualstudio.com/en-us/devops/|
+|Azaure DevOps Solutions|https://azure.microsoft.com/en-us/solutions/devops/|
+|My Take on an Azure Open Source Cross-Platform DevOps Toolkit–Part 12|https://blogs.msdn.microsoft.com/allthingscontainer/2016/12/27/my-take-on-an-azure-open-source-cross-platform-devops-toolkit-part-12/|
+|Introducing Azure DevOps Project|https://blogs.msdn.microsoft.com/devops/2017/11/15/azure-devops-project/|
+
