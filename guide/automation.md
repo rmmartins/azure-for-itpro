@@ -1,6 +1,6 @@
 # Automation
 
-## Azure Automaation
+## Azure Automation
 
 | Topic | Reference |
 | --- | --- |
