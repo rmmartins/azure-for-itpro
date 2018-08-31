@@ -27,7 +27,7 @@ It aims to be a useful, living reference that consolidates links, tips, gotchas,
 10. [Azure DevOps](guide/devops.md)
 
 
-> @ricardommartins[http://twitter.com/ricardommartins]
+> [@ricardommartins](http://twitter.com/ricardommartins)
 
 
 
