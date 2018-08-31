@@ -63,12 +63,6 @@
 | --- | --- |
 |Azure enterprise scaffold - prescriptive subscription governance|https://docs.microsoft.com/pt-br/azure/architecture/cloud-adoption/appendix/azure-scaffold|
 
-## Azure Resource Manager Templates
-
-| Topic | Reference |
-| --- | --- |
-|Develop Azure Resource Manager templates for cloud consistency|https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates-cloud-consistency|
-
 ## Azure Locks
 
 | Topic | Reference |
