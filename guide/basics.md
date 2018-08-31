@@ -1,5 +1,7 @@
 # Azure Basics
 
+| Topic | Reference |
+| --- | --- |
 |Azure Portal| https://azure.microsoft.com/en-us/features/azure-portal/|
 |Resource Manager| https://docs.microsoft.com/pt-br/azure/azure-resource-manager/resource-group-overview|
 |Management Groups| https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview|
