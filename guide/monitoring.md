@@ -1,12 +1,52 @@
 # Azure Monitoring
 
+## Monitoring
+
 | Topic | Reference |
 | --- | --- |
-| Azure Monitoring| https://docs.microsoft.com/en-us/azure/monitoring/<br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/<br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview<br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-azure-monitor<br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-get-started|
-| Azure Boot Diagnostics| https://docs.microsoft.com/en-us/azure/virtual-machines/windows/boot-diagnostics <br>https://docs.microsoft.com/en-us/azure/virtual-machines/linux/boot-diagnostics|
-|Azure Diagnostic Logs| https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs <br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/azure-diagnostics|
+| Azure Management - Monitoring| https://docs.microsoft.com/en-us/azure/monitoring/|
+|Azure Monitor Documentation|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/|
+|Monitoring Azure applications and resources|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview|
+|Overview of Azure Monitor|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-azure-monitor|
+|Get started with Azure Monitor|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-get-started|
+
+## Azure Boot Diagnostics
+
+| Topic | Reference |
+| --- | --- |
+| How to use boot diagnostics to troubleshoot Windows virtual machines in Azure| https://docs.microsoft.com/en-us/azure/virtual-machines/windows/boot-diagnostics|
+|How to use boot diagnostics to troubleshoot Linux virtual machines in Azure|https://docs.microsoft.com/en-us/azure/virtual-machines/linux/boot-diagnostics|
+
+## Azure Diagnostic Diagnostics
+
+| Topic | Reference |
+| --- | --- |
+|What is Azure Diagnostics extension|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/azure-diagnostics|
+|Collect and consume log data from your Azure resources| https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs|
+
+## Azure Activity Diagnostics
+
+| Topic | Reference |
+| --- | --- |
 |Azure Activity Logs|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-activity-logs|
-|Azure Alerts|https://azure.microsoft.com/en-us/blog/the-next-generation-of-azure-alerts-has-arrived/ <br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-near-real-time-metric-alerts <br> https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-unified-alerts <br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-alerts|
-|Azure Metrics|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/insights-how-to-customize-monitoring <br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-metrics <br>https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-supported-metrics <br>https://azure.microsoft.com/pt-br/blog/azure-monitor-new-services-and-capabilities-for-metrics/|
+
+## Azure Alerts
+
+| Topic | Reference |
+| --- | --- |
+|Azure Alerts|https://azure.microsoft.com/en-us/blog/the-next-generation-of-azure-alerts-has-arrived/|
+|Azure Monitor Metrics|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-near-real-time-metric-alerts|
+|Unified alerts in Azure Monitor|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-unified-alerts|
+|Alerts on Azure Monitor data|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-alerts|
+|Overview of Metrics in Microsoft Azure|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/insights-how-to-customize-monitoring|
+|Overview of metrics in Microsoft Azure|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-metrics|
+|Supported metrics with Azure Monitor|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-supported-metrics|
+|Azure Monitor: New services and capabilities for metrics|https://azure.microsoft.com/pt-br/blog/azure-monitor-new-services-and-capabilities-for-metrics/|
+
+## Azure Logs
+
+| Topic | Reference |
+| --- | --- |
 |Azure Logs| https://docs.microsoft.com/en-us/azure/security/azure-log-audit#types-of-logs-in-azure|
-|Azure Log Analytics|https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-overview <br>https://docs.microsoft.com/en-us/azure/log-analytics/|
+|What is Azure Log Analytics?|https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-overview|
+|Log Analytics Documentation|https://docs.microsoft.com/en-us/azure/log-analytics/|
