@@ -1,4 +1,4 @@
-![Azure Logo](/images/azure.png)
+![Azure Logo](/images/azure-logo.png)
 
 # Azure for IT Pro - The Ops side of DevOps
 Main topics about Azure from a Sysadmin perspective 
