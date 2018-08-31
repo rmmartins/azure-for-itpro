@@ -25,6 +25,7 @@
 |IaC on Azure – An introduction of Infrastructure as Code (IaC) with Azure Resource Manager (ARM) Template|https://blogs.msdn.microsoft.com/azuredev/2017/02/11/iac-on-azure-an-introduction-of-infrastructure-as-code-iac-with-azure-resource-manager-arm-template/|
 |IaC on Azure – How to get started with ARM Template|https://blogs.msdn.microsoft.com/azuredev/2017/05/06/iac-on-azure-how-to-get-started-with-arm-template/|
 |Azure Building Blocks: Simplifying Resource Deployment|https://github.com/mspnp/template-building-blocks/wiki|
+|Develop Azure Resource Manager templates for cloud consistency|https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates-cloud-consistency|
 
 ## DevOps
 
