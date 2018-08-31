@@ -17,14 +17,14 @@
 | How to use boot diagnostics to troubleshoot Windows virtual machines in Azure| https://docs.microsoft.com/en-us/azure/virtual-machines/windows/boot-diagnostics|
 |How to use boot diagnostics to troubleshoot Linux virtual machines in Azure|https://docs.microsoft.com/en-us/azure/virtual-machines/linux/boot-diagnostics|
 
-## Azure Diagnostic Diagnostics
+## Azure Diagnostics
 
 | Topic | Reference |
 | --- | --- |
 |What is Azure Diagnostics extension|https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/azure-diagnostics|
 |Collect and consume log data from your Azure resources| https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-of-diagnostic-logs|
 
-## Azure Activity Diagnostics
+## Azure Activity Logs
 
 | Topic | Reference |
 | --- | --- |
