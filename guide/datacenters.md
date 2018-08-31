@@ -22,21 +22,6 @@
 | Azure Limits| https://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/ |
 |Azure subscription and service limits, quotas, and constraints|https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits|
 
-
-## Azure VM Sizes
-
-| Topic | Reference |
-| --- | --- |
-|Sizes for virtual machines in Azure|https://azure.microsoft.com/en-us/pricing/details/virtual-machines/series/|
-
-## Azure Linux Support
-
-| Topic | Reference |
-| --- | --- |
-|Support for Linux and open source technology in Azure|https://support.microsoft.com/en-us/help/2941892/support-for-linux-and-open-source-technology-in-azure|
-|Microsoft on Github| https://github.com/Microsoft |
-|Opensource at Microsoft |https://opensource.microsoft.com/ <br>https://open.microsoft.com/|
-
 ## Azure SLA
 
 | Topic | Reference |
