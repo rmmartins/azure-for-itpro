@@ -28,7 +28,7 @@
 |Azure Identity Management and access control security best practices|https://docs.microsoft.com/en-us/azure/security/azure-security-identity-management-best-practices|
 |Manage access for external users using RBAC|https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-external-users|
 
-## Azure Cost Mamagement
+## Azure Cost Management
 
 | Topic | Reference |
 | --- | --- |
