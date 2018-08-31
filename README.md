@@ -30,4 +30,4 @@ It aims to be a useful, living reference that consolidates links, tips, gotchas,
 
 
 
-> By: **[Ricardo Martins](https://www.ricardomartins.com.br)**
+
