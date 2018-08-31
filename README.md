@@ -26,4 +26,8 @@ It aims to be a useful, living reference that consolidates links, tips, gotchas,
 9. [Azure Seecurity](guide/security.md)
 10. [Azure DevOps](guide/motivation.md)
 
+
+
+
+
 > By: **[Ricardo Martins](https://www.ricardomartins.com.br)**
