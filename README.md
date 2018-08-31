@@ -1,4 +1,4 @@
-![Azure Logo](/images/azure.png){ width=10% }
+![Azure Logo](/images/azure.png)
 
 # Azure for IT Pro - The Ops side of DevOps
 Main topics about Azure from a Sysadmin perspective 
