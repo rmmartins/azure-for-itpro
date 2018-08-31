@@ -23,7 +23,7 @@ It aims to be a useful, living reference that consolidates links, tips, gotchas,
 6. [Azure Disaster Recovery & Backup](guide/disasterrecovery.md)
 7. [Azure Governance](guide/governance.md)
 8. [Azure Automation](guide/automation.md)
-9. [Azure Seecurity](guide/security.md)
+9. [Azure Security](guide/security.md)
 10. [Azure DevOps](guide/motivation.md)
 
 
