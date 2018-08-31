@@ -1,10 +1,17 @@
 # Azure Disaster Recovery, HA & Backup
 
+## Azure Site Recovery
+
 | Topic | Reference |
 | --- | --- |
 |Site Recovery Documentation|https://docs.microsoft.com/en-us/azure/site-recovery/|
 |About Site Recovery|https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview|
 |Site Recovery Learning Path|https://azure.microsoft.com/en-us/documentation/learning-paths/site-recovery/|
+
+## Azure Backup
+
+| Topic | Reference |
+| --- | --- |
 |Azure Backup Documentation|https://docs.microsoft.com/en-us/azure/backup/|
 |Overview of the features in Azure Backup|https://docs.microsoft.com/en-us/azure/backup/backup-introduction-to-azure-backup|
 |Recovery Services vaults overview|https://docs.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview|
