@@ -1,6 +1,6 @@
 # Azure Monitoring
 
-## Monitoring
+## Azure Monitor
 
 | Topic | Reference |
 | --- | --- |
