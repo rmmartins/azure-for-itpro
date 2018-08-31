@@ -13,8 +13,6 @@ Also, with the growth of the DevOps culture, IT Pro's and classic system adminis
 
 It aims to be a useful, living reference that consolidates links, tips, gotchas, and best practices.
 
-> By: **[Ricardo Martins](https://www.ricardomartins.com.br)**
-
 ## Contents
 
 1. [Azure Datacenters](guide/datacenters.md)
@@ -28,3 +26,4 @@ It aims to be a useful, living reference that consolidates links, tips, gotchas,
 9. [Azure Seecurity](guide/security.md)
 10. [Azure DevOps](guide/motivation.md)
 
+> By: **[Ricardo Martins](https://www.ricardomartins.com.br)**
