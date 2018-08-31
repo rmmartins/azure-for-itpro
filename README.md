@@ -20,7 +20,7 @@ It aims to be a useful, living reference that consolidates links, tips, gotchas,
 3. [Azure Storage](guide/storage.md)
 4. [Azure Networking](guide/networking.md)
 5. [Azure Monitoring](guide/monitoring.md)
-6. [Azure Disaster Recovery](guide/disasterrecovery.md)
+6. [Azure Disaster Recovery & Backup](guide/disasterrecovery.md)
 7. [Azure Governance](guide/governance.md)
 8. [Azure Automation](guide/automation.md)
 9. [Azure Seecurity](guide/security.md)
