@@ -3,13 +3,15 @@
 # Azure for IT Pro - The Ops side of DevOps
 >Main topics about Azure from a Sysadmin perspective 
 
-This guide was created with the purpose to serve as source of objective information for IT Pros and Sysadmins on the main topics about Azure. It is being created in a open source model and under the terms of the GNU General Public License 3.0. Feel free to contribute and collaborate with your pull request.
+This Azure open guide was created with the purpose to serve as source of objective information for IT Pros and Sysadmins on the main topics about Azure. It is being created in a open source model and feel free to contribute and collaborate with your pull request.
 
 It will be based on the official Microsoft documentation contained in http://docs.microsoft.com/azure, but geared to the infrastructure and operations teams.
 
-In my daily life with clients, I see many IT Pros with a large knowledge gap in Azure. In many cases, they have partial or incomplete information because they learn Azure on demand, in an unorganized/unstructured way without following a logical path of study and learning.
+I’ve seen a lot of guides, books and papers more focused on developers, but not so much in the same proportion focused on IT Pro. So I decided start this approach with those important public, in wich I’m also inserted: the guys from the ops side of DevOps.
 
-The purspose of this guide is to be a useful, living reference that consolidates links, tips and best practices. I'm bringing the main questions from the customers to a simple list of structured topics. I hope this guide can be used as a source on key information for the most common questions in Azure IaaS for IT Pros.
+In my daily life with clients, I see many IT Pros with knowledge gap in Azure. In many cases, they have partial or incomplete information because they learn Azure on demand, in an unorganized/unstructured way without following a logical path of study and learning.
+
+The purspose of this guide is to cover this lack,  being a useful, living reference that consolidates links, tips and best practices. I'm bringing the main questions from the customers to a simple list of structured topics. I hope this guide can be used as a source on key information for the most common questions in Azure IaaS for IT Pros.
 
 ## Contents
 
