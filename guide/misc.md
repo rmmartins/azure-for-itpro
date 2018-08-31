@@ -24,7 +24,7 @@
 |Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
 |Azure Readiness|	http://aka.ms/azreadiness
 |Azure Essentials|	http://azure.com/essentials 
-|Azure Skills|	http://aka.ms/azureskillspt
+|Azure Skills|	https://azure.microsoft.com/en-us/training/
 |Microsoft Professional Program|	https://academy.microsoft.com/en-us/professional-program/tracks/
 |Azure on EDX|https://www.edx.org/course?search_query=azure 
 |Handson Labs|https://www.microsoft.com/handsonlabs/|
