@@ -30,7 +30,5 @@
 
 | Topic | Reference |
 | --- | --- |
-
-
 |What is Infrastructure as Code?|https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code|
 |DevOps Resource Center|https://docs.microsoft.com/en-us/azure/devops/learn/|
