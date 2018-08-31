@@ -17,4 +17,14 @@ It aims to be a useful, living reference that consolidates links, tips, gotchas,
 
 ## Contents
 
-1. [Motivation](guide/motivation.md)
+1. [Azure Datacenters](guide/datacenters.md)
+2. [Azure Basics](guide/basics.md)
+3. [Azure Storage](guide/storage.md)
+4. [Azure Networking](guide/networking.md)
+5. [Azure Monitoring](guide/monitoring.md)
+6. [Azure Disaster Recovery](guide/disasterrecovery.md)
+7. [Azure Governance](guide/governance.md)
+8. [Azure Automation](guide/automation.md)
+9. [Azure Seecurity](guide/security.md)
+10. [Azure DevOps](guide/motivation.md)
+
