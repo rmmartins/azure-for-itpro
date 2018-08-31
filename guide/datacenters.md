@@ -22,11 +22,6 @@
 | Azure Limits| https://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/ |
 |Azure subscription and service limits, quotas, and constraints|https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits|
 
-## Azure Resource Manager
-
-| Topic | Reference |
-| --- | --- |
-|Azure Resource Manager vs. classic deployment|https://azure.microsoft.com/en-us/documentation/articles/resource-manager-deployment-model/|
 
 ## Azure VM Sizes
 
