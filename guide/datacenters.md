@@ -1,4 +1,4 @@
-# Azure Datacenters
+## Azure Datacenters
 
 | Topic | Reference |
 | --- | --- |
