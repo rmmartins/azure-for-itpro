@@ -16,4 +16,4 @@
 |Azure Backup Server protection matrix|https://docs.microsoft.com/en-us/azure/backup/backup-mabs-protection-matrix|
 |Back up Azure file shares|https://docs.microsoft.com/en-us/azure/backup/backup-azure-files|
 |Plan your VM backup infrastructure in Azure|https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction|
-
+|Backup and disaster recovery for Azure IaaS disks|https://docs.microsoft.com/en-us/azure/virtual-machines/windows/backup-and-disaster-recovery-for-azure-iaas-disks|
