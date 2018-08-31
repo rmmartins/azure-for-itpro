@@ -5,6 +5,7 @@
 | Topic | Reference |
 | --- | --- |
 |Azure Portal| https://azure.microsoft.com/en-us/features/azure-portal/|
+|Create and Share Azure dashboads|https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards|
 
 ## Azure Resource Manager
 
