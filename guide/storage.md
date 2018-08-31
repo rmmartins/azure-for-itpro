@@ -6,7 +6,7 @@
 |Storage Introduction| https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction|
 |Azure Storage Services| https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction#azure-storage-services|
 |Deciding when to use Azure Blobs, Azure Files, or Azure Disks| https://docs.microsoft.com/en-us/azure/storage/common/storage-decide-blobs-files-disks|
-|Replicação do Azure Storage| https://azure.microsoft.com/en-us/documentation/articles/storage-redundancy/|
+|Azure Storage Replication| https://azure.microsoft.com/en-us/documentation/articles/storage-redundancy/|
 |Azure Storage Scalability and Performance Targets| https://docs.microsoft.com/e-us/azure/storage/common/storage-scalability-targets|
 |Storage Account| https://azure.microsoft.com/en-us/documentation/articles/storage-create-storage-account/|
 |Azure Blob storage: Hot, cool, and archive storage tiers| https://azure.microsoft.com/en-us/documentation/articles/storage-blob-storage-tiers/|
