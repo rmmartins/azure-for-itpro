@@ -1,14 +1,50 @@
 # Azure Basics
 
+## Azure Portal
+
 | Topic | Reference |
 | --- | --- |
 |Azure Portal| https://azure.microsoft.com/en-us/features/azure-portal/|
+
+## Azure Resource Manager
+
+| Topic | Reference |
+| --- | --- |
 |Resource Manager| https://docs.microsoft.com/pt-br/azure/azure-resource-manager/resource-group-overview|
+
+## Azure Management Groups
+
+| Topic | Reference |
+| --- | --- |
 |Management Groups| https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview|
+
+## Azure Subscription Governance
+
+| Topic | Reference |
+| --- | --- |
 |Subscription Governance| https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption-guide/subscription-governance|
+
+## Azure Templates
+
+| Topic | Reference |
+| --- | --- |
 |Azure Templates| https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates-cloud-consistency|
+
+## Azure Tags
+
+| Topic | Reference |
+| --- | --- |
 |Azure Tags| https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags|
+
+## Azure Cost Management
+
+| Topic | Reference |
+| --- | --- |
 |Cost Management| https://docs.microsoft.com/pt-br/azure/cost-management/|
+
+## Azure Naming Conventions
+| Topic | Reference |
+| --- | --- |
 |Naming Conventions| https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions|
 
 ## Azure VM Sizes
