@@ -17,6 +17,8 @@
 |Compare Clouds|http://comparecloud.in/|
 |Azure Brasil Group at Telegram|http://telegram.me/azurebrasil|
 |Fasttrack for Azure| https://github.com/Azure/fta-azurefoundations/|
+| Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
+| Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
 
 ## Azure Traning & Readiness
 
