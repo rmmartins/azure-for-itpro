@@ -16,6 +16,7 @@
 |Azure Interactives|https://azureinteractives.azurewebsites.net/|
 |Compare Clouds|http://comparecloud.in/|
 |Azure Brasil Group at Telegram|http://telegram.me/azurebrasil|
+|Fasttrack for Azure| https://github.com/Azure/fta-azurefoundations/|
 
 ## Azure Traning & Readiness
 
