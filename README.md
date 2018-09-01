@@ -11,7 +11,7 @@ I’ve seen a lot of guides, books and papers more focused on developers, but no
 
 In my daily life with clients, I see many IT Pros with knowledge gap in Azure. In many cases, they have partial or incomplete information because they learn Azure on demand, in an unorganized/unstructured way without following a logical path of study and learning.
 
-The purspose of this guide is to cover this lack,  being a useful, structured, living reference that consolidates links, tips and best practices. I'm bringing the main questions from the customers to a simple list of topics. I hope this guide can be used as a source on key information for the most common questions in Azure IaaS for IT Pros and CloudOps.
+The purspose of this guide is to help cover this lack,  being a useful, structured, living reference that consolidates links, tips and best practices. I'm bringing the main questions from the customers to a simple list of topics. I hope this guide can be used as a source on key information for the most common questions in Azure IaaS for IT Pros and CloudOps.
 
 ## Contents
 
