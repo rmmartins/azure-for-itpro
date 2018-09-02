@@ -17,8 +17,6 @@
 |Compare Clouds|http://comparecloud.in/|
 |Azure Brasil Group at Telegram|http://telegram.me/azurebrasil|
 |Fasttrack for Azure| https://github.com/Azure/fta-azurefoundations/|
-| Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
-| Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
 
 ## Azure Traning & Readiness
 
@@ -31,6 +29,7 @@
 |Microsoft Professional Program|	https://academy.microsoft.com/en-us/professional-program/tracks/
 |Azure on EDX|https://www.edx.org/course?search_query=azure 
 |Handson Labs|https://www.microsoft.com/handsonlabs/|
+|Azure Citadel|https://azurecitadel.github.io/|
 
 ## Azure for AWS Professionals
 | Topic | Reference |
@@ -46,4 +45,11 @@
 |(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals	Virtual Machines, VM Scale Sets & Containers|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670|
 |(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals:	Migrating to Azure|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671|
 	 
+## Azure Books
+
+| Topic | Reference |
+| --- | --- |
+| Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
+| Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
+
 
