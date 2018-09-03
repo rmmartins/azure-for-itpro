@@ -8,6 +8,16 @@
 |About Site Recovery|https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview|
 |Site Recovery Learning Path|https://azure.microsoft.com/en-us/documentation/learning-paths/site-recovery/|
 
+## Azure Site Recovery - VMware and physical server replication to Azure
+| Topic | Reference |
+| --- | --- |
+|VMware to Azure replication architecture|https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture|
+|Physical server to Azure replication architecture|https://docs.microsoft.com/en-us/azure/site-recovery/physical-azure-architecture|
+|Support matrix for VMware and physical server replication to Azure|https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix|
+|Common questions for VMware to Azure replication|https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-common-questions|
+|Prepare on-premises VMware servers for disaster recovery to Azure|https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-tutorial-prepare-on-premises|
+|Set up disaster recovery to Azure for on-premises VMware VMs|https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-tutorial|
+
 ## Azure Backup
 
 | Topic | Reference |
