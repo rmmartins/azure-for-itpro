@@ -3,3 +3,5 @@
 #remote_theme: edition-jekyll-template
 remote_theme: end2end
 
+
+theme: jekyll-theme-minimal
