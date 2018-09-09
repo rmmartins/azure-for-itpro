@@ -33,3 +33,38 @@
 |Azure Virtual Gateways| https://azure.microsoft.com/en-us/documentation/services/vpn-gateway/|
 |Site-to-Site VPNs| https://azure.microsoft.com/en-us/documentation/articles/vpn-gateway-site-to-site-create/|
 |ExpressRoute Documentation| https://azure.microsoft.com/en-us/documentation/services/expressroute/|
+
+## DDoS Protection
+
+| Topic | Reference |
+| --- | --- |
+|Azure DDoS Protection Standard overview | https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview|
+
+## Azure Virtual WAN
+
+| Topic | Reference |
+| --- | --- |
+|What is Azure Virtual WAN?  | https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about|
+
+
+## Azure Network Watcher
+
+| Topic | Reference |
+| --- | --- |
+|What is Azure Network Watcher?  | https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview|
+|Network Watcher Documentation|https://docs.microsoft.com/en-us/azure/network-watcher/|
+
+
+## Azure Firewall
+
+| Topic | Reference |
+| --- | --- |
+|What is Azure Firewall?  | https://docs.microsoft.com/en-us/azure/firewall/overview|
+|Azure Firewall Documentation|https://docs.microsoft.com/en-us/azure/firewall/|
+
+## Azure CDN
+
+| Topic | Reference |
+| --- | --- |
+|What is a content delivery network on Azure?  | https://docs.microsoft.com/en-us/azure/cdn/cdn-overview|
+|Azure CDN Documentation|https://docs.microsoft.com/en-us/azure/cdn/|
