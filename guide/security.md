@@ -18,7 +18,7 @@
 
 | Topic | Reference |
 | --- | --- |
-|Azure Security IaaS | https://docs.microsoft.com/en-us/azure/security/azure-security-iaas|
+| Security best practices for IaaS workloads in Azure| https://docs.microsoft.com/en-us/azure/security/azure-security-iaas|
 
 
 ## Azure Security Center
