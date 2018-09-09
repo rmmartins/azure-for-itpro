@@ -11,6 +11,17 @@
 |Azure PIP| https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm|
 |Virtual Network peering| https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview|
 |User Defined Routing| https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-udr-overview/|
+|Virtual Network Peering|https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview|
+|Network Appliances|https://azure.microsoft.com/en-us/solutions/network-appliances/|
+
+## Different types of Load Balancers
+
+| Topic | Reference |
+| --- | --- |
+|Network Load Balancer (Azure Load Balancer)|https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview?toc=%2fazure%2fnetworking%2ftoc.json|
+|Application Load Balancer (Azure Application Gateway)|https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-introduction?toc=%2fazure%2fnetworking%2ftoc.json|
+|DNS (Azure DNS)|https://docs.microsoft.com/en-us/azure/dns/dns-overview|
+|DNS-based traffic distribution (Azure Traffic Manager)|https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview|
 
 
 ## Security
@@ -35,6 +46,8 @@
 |Azure Virtual Gateways| https://azure.microsoft.com/en-us/documentation/services/vpn-gateway/|
 |Site-to-Site VPNs| https://azure.microsoft.com/en-us/documentation/articles/vpn-gateway-site-to-site-create/|
 |ExpressRoute Documentation| https://azure.microsoft.com/en-us/documentation/services/expressroute/|
+|Connecting your on-premises network to Azure|https://docs.microsoft.com/en-us/azure/guidance/guidance-connecting-your-on-premises-network-to-azure|
+
 
 ## Azure Virtual WAN
 
