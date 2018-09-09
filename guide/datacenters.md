@@ -36,4 +36,14 @@
 |Azure Resiliency|https://azure.microsoft.com/en-us/features/resiliency/|
 
 
+## Azure Planned Maintenance
+
+| Topic | Reference |
+| --- | --- |
+|Official Azure blog post on vulnerability and our maintenance|https://azure.microsoft.com/en-us/blog/securing-azure-customers-from-cpu-vulnerability/|
+|Azure documentation page with Frequently Asked Questions|https://docs.microsoft.com/en-us/azure/virtual-machines/windows/accelerated-maintenance
+|Guidance for mitigating speculative execution side-channel vulnerabilities ​|https://docs.microsoft.com/en-us/azure/virtual-machines/windows/mitigate-se|
+|Security TechCenter Advisory: Guidance for Windows​|https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180002|
+
+
 
