@@ -9,6 +9,7 @@
 |What is Azure?| https://azure.microsoft.com/en-us/overview/what-is-azure/|
 |Azure Main Pilars|  https://azure.microsoft.com/en-us/overview/productivity/ <br> https://azure.microsoft.com/en-us/overview/hybrid-cloud/ <br>https://azure.microsoft.com/en-us/overview/intelligent/ <br> https://azure.microsoft.com/en-us/overview/trusted-cloud/|
 |Find which Azure region is right for you|https://azure.microsoft.com/en-us/overview/datacenters/how-to-choose/|
+|Criteria for choosing an Azure compute service|https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-comparison|
 
 ## Core IaaS Services
 
