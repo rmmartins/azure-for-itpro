@@ -17,8 +17,9 @@
 |Compare Clouds|http://comparecloud.in/|
 |Azure Brasil Group at Telegram|http://telegram.me/azurebrasil|
 |Fasttrack for Azure| https://github.com/Azure/fta-azurefoundations/|
+|White papers, analyst reports and e-books|https://azure.microsoft.com/en-us/resources/whitepapers/|
 
-## Azure Traning & Readiness
+## Azure Training & Readiness
 
 | Topic | Reference |
 | --- | --- |
@@ -39,11 +40,11 @@
 |Azure for AWS Professionals - Learning Path| https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/|
 | Microsoft Azure for AWS Experts - EDX Free Training|	https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/|
 |Azure for AWS Professionals|	https://docs.microsoft.com/en-us/azure/architecture/aws-professional/ |
-|(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals	Getting Started|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667|
-|(Part 2) Microsoft Azure for Amazon AWS Cloud Professionals	Networking|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1668|
-|(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals	Storage|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669|
-|(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals	Virtual Machines, VM Scale Sets & Containers|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670|
-|(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals:	Migrating to Azure|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671|
+|(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals - Getting Started|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667|
+|(Part 2) Microsoft Azure for Amazon AWS Cloud Professionals - Networking|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1668|
+|(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals - Storage|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669|
+|(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals - Virtual Machines, VM Scale Sets & Containers|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670|
+|(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals - Migrating to Azure|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671|
 	 
 ## Azure Books
 
@@ -57,6 +58,7 @@
 | Topic | Reference |
 | --- | --- |
 |Microsoft Mechanics | https://www.youtube.com/user/OfficeGarageSeries|
+|Cloud Ranger Network|https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ|
 |Azure Development Group| https://youtube.com/Azuredevelopmentgroup|
 |Azure Power Lunch| https://www.youtube.com/channel/UCaqQqG2zrK3vL4UMx6seOoA|
 |Jeffrey Richter Videos | https://www.youtube.com/user/JeffreyMRichter|
