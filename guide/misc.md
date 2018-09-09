@@ -59,6 +59,7 @@
 |Microsoft Mechanics | https://www.youtube.com/user/OfficeGarageSeries|
 |Azure Development Group| https://youtube.com/Azuredevelopmentgroup|
 |Azure Power Lunch| https://www.youtube.com/channel/UCaqQqG2zrK3vL4UMx6seOoA|
+|Jeffrey Richter Videos | https://www.youtube.com/user/JeffreyMRichter|
 
 
 
