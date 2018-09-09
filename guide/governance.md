@@ -62,6 +62,7 @@
 | Topic | Reference |
 | --- | --- |
 |Azure enterprise scaffold - prescriptive subscription governance|https://docs.microsoft.com/pt-br/azure/architecture/cloud-adoption/appendix/azure-scaffold|
+|Move resources to new resource group or subscription|https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources|
 
 ## Azure Locks
 
