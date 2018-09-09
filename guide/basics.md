@@ -10,6 +10,14 @@
 |Azure Main Pilars|  https://azure.microsoft.com/en-us/overview/productivity/ <br> https://azure.microsoft.com/en-us/overview/hybrid-cloud/ <br>https://azure.microsoft.com/en-us/overview/intelligent/ <br> https://azure.microsoft.com/en-us/overview/trusted-cloud/|
 |Find which Azure region is right for you|https://azure.microsoft.com/en-us/overview/datacenters/how-to-choose/|
 
+## Core IaaS Services
+
+| Topic | Reference |
+| --- | --- |
+|Compute - Virtual Machines & Availability Sets|https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Compute|
+|Storage -  Disks, Blobs & Files | https://docs.microsoft.com/en-us/azure/#pivot=products&panel=storage|
+|Networking - Virtual Networks, VPN, Express Route, Load Balancer, DNS & Traffic Manager|https://docs.microsoft.com/en-us/azure/#pivot=products&panel=network|
+
 ## Azure Portal
 
 | Topic | Reference |
