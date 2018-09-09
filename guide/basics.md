@@ -5,7 +5,7 @@
 | Topic | Reference |
 | --- | --- |
 |What is cloud computing?|https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/|
-|Types of cloud services| [IaaS](https://azure.microsoft.com/en-us/overview/what-is-iaas/), [PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/), [SaaS](https://azure.microsoft.com/en-us/overview/what-is-saas/) |
+|Types of cloud services| [IaaS](https://azure.microsoft.com/en-us/overview/what-is-iaas/) | [PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/) | [SaaS](https://azure.microsoft.com/en-us/overview/what-is-saas/) |
 |What is Azure?| https://azure.microsoft.com/en-us/overview/what-is-azure/|
 |Azure Main Pilars| [Productive](https://azure.microsoft.com/en-us/overview/productivity/), [Hybrid](https://azure.microsoft.com/en-us/overview/hybrid-cloud/), [Intelligent](https://azure.microsoft.com/en-us/overview/intelligent/), [Trusted](https://azure.microsoft.com/en-us/overview/trusted-cloud/)|
 |Find which Azure region is right for you|https://azure.microsoft.com/en-us/overview/datacenters/how-to-choose/|
