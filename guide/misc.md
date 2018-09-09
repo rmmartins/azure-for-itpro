@@ -45,6 +45,15 @@
 |(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals - Storage|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669|
 |(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals - Virtual Machines, VM Scale Sets & Containers|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670|
 |(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals - Migrating to Azure|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671|
+
+## Architectural design best practices & guidance
+
+| Topic | Reference |
+| --- | --- |
+|Azure Reference Architectures|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/|
+|Design Review Checklists|https://docs.microsoft.com/en-us/azure/architecture/checklist/|
+|Azure security best practices and patterns|https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns|
+
 	 
 ## Azure Books
 
