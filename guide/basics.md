@@ -5,9 +5,9 @@
 | Topic | Reference |
 | --- | --- |
 |What is cloud computing?|https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/|
-|Types of cloud services| [Infrastructure as a Service - IaaS](https://azure.microsoft.com/en-us/overview/what-is-iaas/) <br> [Platform as a Service - PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/) <br> [Software as aa Service - SaaS](https://azure.microsoft.com/en-us/overview/what-is-saas/) |
+|Types of cloud services| Infrastructure as a Service - IaaS: https://azure.microsoft.com/en-us/overview/what-is-iaas/ <br> Platform as a Service - PaaS: https://azure.microsoft.com/en-us/overview/what-is-paas/ <br> Software as aa Service - SaaS: https://azure.microsoft.com/en-us/overview/what-is-saas/ |
 |What is Azure?| https://azure.microsoft.com/en-us/overview/what-is-azure/|
-|Azure Main Pilars| [Productive](https://azure.microsoft.com/en-us/overview/productivity/) <br> [Hybrid](https://azure.microsoft.com/en-us/overview/hybrid-cloud/) <br> [Intelligent](https://azure.microsoft.com/en-us/overview/intelligent/) <br> [Trusted](https://azure.microsoft.com/en-us/overview/trusted-cloud/)|
+|Azure Main Pilars| Productive: https://azure.microsoft.com/en-us/overview/productivity/) <br> Hybrid: https://azure.microsoft.com/en-us/overview/hybrid-cloud/ <br> Intelligent: https://azure.microsoft.com/en-us/overview/intelligent/ <br> Trusted: https://azure.microsoft.com/en-us/overview/trusted-cloud/|
 |Find which Azure region is right for you|https://azure.microsoft.com/en-us/overview/datacenters/how-to-choose/|
 
 ## Azure Portal
