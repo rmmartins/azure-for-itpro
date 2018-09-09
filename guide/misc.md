@@ -52,4 +52,17 @@
 | Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
 | Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
 
+## Videos
+
+| Topic | Reference |
+| --- | --- |
+|Microsoft Mechanics | https://www.youtube.com/user/OfficeGarageSeries|
+|Azure Development Group| https://youtube.com/Azuredevelopmentgroup|
+
+
+
+
+
+
+
 
