@@ -40,13 +40,19 @@
 | --- | --- |
 |Azure VPN Gateway Documentation| https://docs.microsoft.com/pt-br/azure/vpn-gateway/|
 |What is VPN Gateway?|https://docs.microsoft.com/pt-br/azure/vpn-gateway/vpn-gateway-about-vpngateways|
+|Connect an on-premises network to Azure using a VPN gateway|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/vpn|
 |VPN HA| https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable|
 |ExpressRoute Documentation| https://docs.microsoft.com/en-us/azure/expressroute/|
 |ExpressRoute overview|https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction|
+|Connect an on-premises network to Azure using ExpressRoute|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute|
+|Connect an on-premises network to Azure using ExpressRoute with VPN failover|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover|
+|Implement a hub-spoke network topology in Azure|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke|
+|Implement a hub-spoke network topology with shared services in Azure|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/shared-services|
 |Azure Virtual Gateways| https://azure.microsoft.com/en-us/documentation/services/vpn-gateway/|
 |Site-to-Site VPNs| https://azure.microsoft.com/en-us/documentation/articles/vpn-gateway-site-to-site-create/|
 |ExpressRoute Documentation| https://azure.microsoft.com/en-us/documentation/services/expressroute/|
 |Connecting your on-premises network to Azure|https://docs.microsoft.com/en-us/azure/guidance/guidance-connecting-your-on-premises-network-to-azure|
+|Azure Hybrid Connections|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/|
 
 
 ## Azure Virtual WAN
