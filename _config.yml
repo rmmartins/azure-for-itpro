@@ -1,6 +1,7 @@
 #theme: jekyll-theme-modernist
 #remote_theme: "mmistakes/minimal-mistakes"
-remote_theme: "nandomoreirame/end2end"
+#remote_theme: "nandomoreirame/end2end"
+remote_theme: "nandomoreirame/simplest"
 #remote_theme: edition-jekyll-template
 
 
