@@ -1,5 +1,5 @@
 #theme: jekyll-theme-modernist
-remote_theme: minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 #remote_theme: edition-jekyll-template
 
 
