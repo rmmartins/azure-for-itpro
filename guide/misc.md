@@ -19,6 +19,7 @@
 |Fasttrack for Azure| https://github.com/Azure/fta-azurefoundations/|
 |White papers, analyst reports and e-books|https://azure.microsoft.com/en-us/resources/whitepapers/|
 |Migrate to Azure App Service|https://migrate4.azurewebsites.net/|
+|Azure Overview|https://azure-overview.com/|
 
 ## Azure Training & Readiness
 
