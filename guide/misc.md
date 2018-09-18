@@ -33,6 +33,7 @@
 |Azure on EDX|https://www.edx.org/course?search_query=azure 
 |Handson Labs|https://www.microsoft.com/handsonlabs/|
 |Azure Citadel|https://azurecitadel.github.io/|
+|Azure Monitoring Hackaton| https://github.com/rkuehfus/AzureMonitoringHackathon/|
 
 ## Azure for AWS Professionals
 | Topic | Reference |
