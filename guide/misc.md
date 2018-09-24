@@ -20,6 +20,7 @@
 |White papers, analyst reports and e-books|https://azure.microsoft.com/en-us/resources/whitepapers/|
 |Migrate to Azure App Service|https://migrate4.azurewebsites.net/|
 |Azure Overview|https://azure-overview.com/|
+|Get started for Azure IT operators|https://docs.microsoft.com/en-us/azure/guides/operations/azure-operations-guide|
 
 ## Azure Training & Readiness
 
