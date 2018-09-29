@@ -36,6 +36,7 @@
 |Azure Citadel|https://azurecitadel.github.io/|
 |Azure Monitoring Hackaton| https://github.com/rkuehfus/AzureMonitoringHackathon/|
 |Azure Learn|https://docs.microsoft.com/en-us/learn/azure/|
+|Azure Free Trainings at Plpuralsight| http://pluralsight.com/partners/microsoft/azure |
 
 ## Azure for AWS Professionals
 | Topic | Reference |
