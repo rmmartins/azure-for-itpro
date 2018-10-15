@@ -38,6 +38,7 @@
 |Azure Learn|https://docs.microsoft.com/en-us/learn/azure/|
 |Azure Free Trainings at Pluralsight| http://pluralsight.com/partners/microsoft/azure |
 |Microsoft Role-based Certifications|http://aka.ms/RoleBasedCert|
+|Microsoft Learning on Github|https://github.com/MicrosoftLearning|
 
 ## Azure for AWS Professionals
 | Topic | Reference |
