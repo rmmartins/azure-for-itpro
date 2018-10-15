@@ -94,3 +94,9 @@
 |Advisor Security recommendations|https://docs.microsoft.com/en-us/azure/advisor/advisor-security-recommendations|
 |Get started with Azure Advisor|https://docs.microsoft.com/en-us/azure/advisor/advisor-get-started|
 
+## Azure Management
+
+| Topic | Reference |
+| --- | --- |
+|Azure Management - Governance|https://docs.microsoft.com/en-us/azure/governance/|
+
