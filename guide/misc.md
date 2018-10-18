@@ -10,6 +10,7 @@
 |Azure Updates|https://azure.microsoft.com/en-us/updates/|
 |Azure Roadmap|https://azure.microsoft.com/en-us/roadmap/|
 |Last Week in Azure|https://azure.microsoft.com/en-us/blog/topics/last-week-in-azure/|
+|Azure Weekly| http://azureweekly.info/|
 |Updates on Azure Documentation|http://azuredocsupdates.azurewebsites.net/|
 |Azure Notes|https://azurenotes.tech/|
 |Azure VM Chooser|https://azurevmchooser.kvaes.be/|
